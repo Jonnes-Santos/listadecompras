@@ -38,4 +38,4 @@ Este projeto é uma aplicação simples e eficiente para gerenciar listas de com
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/lista-de-compras.git
+   git clone https://github.com/jonnes-santos/lista-de-compras.git
